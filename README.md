@@ -1,5 +1,9 @@
 # PrismLLM
 
+[![Test](https://github.com/SparkSnail/PrismLLM/actions/workflows/test.yml/badge.svg)](https://github.com/SparkSnail/PrismLLM/actions/workflows/test.yml)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
+
 Progressive LLM Data Platform - From Data to LLM in Minutes
 
 ## Quick Start (5 minutes)
